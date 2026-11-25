@@ -43,7 +43,7 @@ Proyek ini disusun dan distrukturisasi secara menyeluruh dengan memenuhi **14 Bu
 
 ```text
 ├── adult.csv           # Dataset mentah Adult Census Income
-├── DS_Projek.ipynb     # Jupyter Notebook utama (alur lengkap 14 capaian)
+├── DS_Projek.ipynb     # Jupyter Notebook utama 
 ├── README.md           # Dokumentasi proyek
 └── .gitignore          # Konfigurasi pengabaian file temporary
 ```
